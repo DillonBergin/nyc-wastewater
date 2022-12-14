@@ -8,6 +8,7 @@ In 2022, fewer New Yorkers sought out PCR testing for COVID-19 as at-home tests 
 
 Since August 2020, the Department of Environmental Protection has sampled New York City’s 14 wastewater treatment plants twice a week to test for the coronavirus in the sewage. As this testing includes all New Yorkers – not just those who seek out PCR testing – experts consider it a more accurate reflection of disease spread, especially as testing became less popular in 2022. Wastewater data in our analysis [come from the city's open data portal](https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/) and are standardized by population of the 14 plants to [provide a city-wide trend](https://github.com/DillonBergin/nyc_wastewater/blob/main/data/processed/wasterwater_daily_avg.csv). 
 
+The geolocations for each wastewater plant were gathered by Betsy Ladyzhets using Google Maps and [a list of watewaster treatment plants from the state of New York](https://data.ny.gov/Energy-Environment/Wastewater-Treatment-Plants/2v6p-juki).
 
 # Questions / Feedback
 Contact Dillon Bergin at dillon@muckrock.com or Betsy Ladyzhets at betsy@muckrock.com 
